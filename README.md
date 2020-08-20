@@ -1,1 +1,1 @@
-# DjangoProject
+Project on CRUD Uisng Django

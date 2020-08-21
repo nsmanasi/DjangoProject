@@ -1,6 +1,3 @@
-Project on CRUD Uisng Django
-
-
 Steps to create project using Django
 
 Step-1: **django-admin startproject <projectname> 
